@@ -1,2 +1,2 @@
 # Projeto-Dio-Flexbox-CSS
-Projeto de Landing Page utilizando os conceitos de Flexbox com o CSS3
+Arquivos de aulas de Flexbox CSS finalizando com um projeto de Landing Page utilizando os conceitos aprendidos.
